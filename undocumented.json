@@ -1,0 +1,12 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/travis/build/ApolloZhu/swift_qrcodejs/Sources/QRCodeModel.swift",
+      "line": 304,
+      "symbol": "QRCodeModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/travis/build/ApolloZhu/swift_qrcodejs"
+}
